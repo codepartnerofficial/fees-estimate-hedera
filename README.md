@@ -1,10 +1,5 @@
 # Fees Checking
 
-#### Token Transfer fees: `0.001 USD / 0.020179 h`
-#### Token Mint: `0.001 USD / 0.019218 h`
-#### Token Burn: `0.001 USD / 0.019218 h`
-#### Contract call basic @ `100,000` Gas : `0.0085 USD / 0.163739 h`
-#### Ledger Update: `0.0001 USD / 0.001921 h`
 
 - Fund Accunt
     - If cold wallet is having sufficient balance
