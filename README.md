@@ -51,3 +51,10 @@
         - Ledger Update: 2
     - Exchange FriddyP Coins `0.0107 h / $ 0.20698`
 
+<br />
+
+![With all Txns](images/WithAllInternalTxns.png "With all Transactions")
+
+<br />
+
+![Only Contract Interaction](images/WithoutTxns.png "Only contract Interaction")
